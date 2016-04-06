@@ -108,7 +108,6 @@
 					});
 					//el.remove();
 				}, parseInt(this.settings.showTime));
-				console.log(this.settings.showTime)
 			},
 			setEvents: function() {
 				var that = this;

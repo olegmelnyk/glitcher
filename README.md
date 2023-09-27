@@ -1,5 +1,7 @@
 Для запуску плагіна потрібно загрузити спрайт з глічами, підключити скрипт та викликати його для body з параметрами.
 ## Приклад виклику плагіна
+
+Test for Fork
 $('body').decoded({
 	sprite: '/wp-content/themes/decoded/assets/glitch.jpg',
 	orientation: 'horizontal'
